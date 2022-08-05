@@ -1,0 +1,8 @@
+Linear Feedback Shift Register: https://www.edaplayground.com/x/Y5dY
+Simple Shift REgister: https://www.edaplayground.com/x/F4xE
+Parameterizable Counter with Synchronous Reset: https://www.edaplayground.com/x/skBK
+Sync_ResetFF_with_FollowerFF (Bad design style) :https://www.edaplayground.com/x/EuGU
+Sync_ResetFF_with_FollowerFF (Good design style): https://www.edaplayground.com/x/Gg3Z
+FF_with_Asynchronous_Reset: https://www.edaplayground.com/x/q_Cx
+FF_with_Synchronous_Reset: https://www.edaplayground.com/x/EuG8
+2:1 MUX: https://www.edaplayground.com/x/sNHx
