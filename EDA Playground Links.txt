@@ -1,4 +1,4 @@
-Linear Feedback Shift Register: (https://www.edaplayground.com/x/sNHx)
+Linear Feedback Shift Register: https://www.edaplayground.com/x/sNHx
 Simple Shift REgister: https://www.edaplayground.com/x/F4xE
 Parameterizable Counter with Synchronous Reset: https://www.edaplayground.com/x/skBK
 Sync_ResetFF_with_FollowerFF (Bad design style) :https://www.edaplayground.com/x/EuGU
